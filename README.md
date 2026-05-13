@@ -1,4 +1,4 @@
-English | [简体中文](./README_CN.md) ｜ [日本語](./README_JP.md)
+English | [简体中文](./README_CN.md)
  
 <p align="center">
 <img src="./logo.png" width="300px">
@@ -1547,4 +1547,4 @@ We would like to thanks the following security researchers for their valuable fe
 
 [![Stargazers over time](https://starchart.cc/We5ter/Scanners-Box.svg)](https://starchart.cc/We5ter/Scanners-Box)
 
-&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2026
+&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2017-2026
