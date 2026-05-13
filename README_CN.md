@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/版本-2026.05-blue.svg" alt="202605">
   <img src="http://img.shields.io/badge/知识共享协议-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="知识共享协议">
- <img src="https://img.shields.io/badge/扫描器/总数-337-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/扫描器/总数-338-blue.svg" alt="number">
 </p>
 
 ## 捐赠
@@ -63,6 +63,12 @@
 - https://github.com/KeygraphHQ/shannon - **Shannon Lite 是一款基于大模型的自主运行的白盒扫描器，适用于 Web 应用程序和 API。它可以自主分析源代码，自主识别攻击面，并执行真实的EXP，从而在漏洞进入生产环境之前验证其有效性**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Node.js-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/KeygraphHQ/shannon?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/KeygraphHQ/shannon?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/KeygraphHQ/shannon.svg?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/KeygraphHQ/shannon?style=flat-square&label=开源协议)
+
+
+- https://github.com/SickHackPark/SickHackShark - **SickHackShark 是一个基于AI Agent智能体的CTF（Capture The Flag）网络安全竞赛自动化工具平台。它采用多Agent智能体架构，能够自动完成Web安全测试任务，包括信息收集、漏洞扫描、漏洞利用和flag获取等全过程**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/SickHackPark/SickHackShark?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/SickHackPark/SickHackShark?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/SickHackPark/SickHackShark.svg?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/SickHackPark/SickHackShark?style=flat-square&label=开源协议)
+
 
 ### AI大模型驱动的扫描器
 
