@@ -35,8 +35,8 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 *The next generation of AI-powered offensive & defensive security agents*
 
-[![Status: Planning](https://img.shields.io/badge/Status-Planning-indigo?style=flat-square&logo=github)](https://github.com/A3C-Security)
-[![Type: Open Source](https://img.shields.io/badge/Type-Open_Source-6366f1?style=flat-square&logo=opensourceinitiative)](https://github.com/A3C-Security)
+[![Status: Planning](https://img.shields.io/badge/Status-Planning-indigo?style=flat-square&logo=github)](https://github.com/We5ter/Project-A3C)
+[![Type: Open Source](https://img.shields.io/badge/Type-Open_Source-6366f1?style=flat-square&logo=opensourceinitiative)](https://github.com/We5ter/Project-A3C)
 
 <img src="./badges/A3C.png" alt="A³C Scanner-Box Authenticated">
 
@@ -56,7 +56,7 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 | 💼 **AI Office Network Security** | AI agents for enterprise office network security, DLP & insider threat prevention |
 
 <p align="center">
-  <sub>📌 Follow the <a href="https://github.com/A3C-Security"><b>A³C Organization</b></a> for updates · <a href="mailto:a3c-security@proton.me?subject=A%C2%B3C%20Collaboration">Collaborate with us</a></sub>
+  <sub>📌 Follow the <a href="https://github.com/We5ter/Project-A3C"><b>Project A³C</b></a> for updates · <a href="mailto:a3c-security@proton.me?subject=A%C2%B3C%20Collaboration">Collaborate with us</a></sub>
 </p>
 
 ## Contents
